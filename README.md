@@ -19,7 +19,7 @@ An easy to use calendar to save your daily tasks.
 
 ## Website
 
-https://github.com/ivydo/work-day-scheduler
+https://ivydo.github.io/work-day-scheduler/
 
 ## Contribution
 
