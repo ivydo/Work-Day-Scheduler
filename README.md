@@ -1,3 +1,26 @@
-# work-day-scheduler
+# Work Day Scheduler App
 
-A simple calendar application that allows a user to save events for each hour of the day
+## Purpose
+
+An easy to use calendar to save your daily tasks.
+
+## Built With
+
+- HTML
+- CSS
+- JS
+- JQuery
+- Bootstrap
+- Date-Fn's library
+
+## Screenshot of website
+
+![Work Day Scheduler](/assets/images/work-day.png "Work Day Scheduler")
+
+## Website
+
+https://github.com/ivydo/work-day-scheduler
+
+## Contribution
+
+Made with ❤️ by Ivy Do

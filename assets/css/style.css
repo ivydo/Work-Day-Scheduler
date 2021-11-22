@@ -10,7 +10,6 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-/* textarea styling */
 
 .jumbotron {
   text-align: center;
@@ -20,6 +19,7 @@ body {
   border-bottom: 10px solid black;
 }
 
+/* general styling for bootstrap classes */
 .row {
   white-space: pre-wrap;
   height: 80px;
@@ -42,6 +42,12 @@ body {
   margin-top: 10px;
 }
 
+.col {
+  display: flex;
+  justify-content: center;
+  background-color: #28a745;
+}
+
 .border-dotted {
   border-top: 2px dotted;
   border-width: thin;
@@ -61,6 +67,7 @@ body {
   border-width: thin;
 }
 
+/* textarea and button / img styling */
 textarea {
   all: unset;
   width: 100%;
@@ -73,12 +80,6 @@ textarea {
 button {
   all: unset;
   color: white;
-}
-
-.col {
-  display: flex;
-  justify-content: center;
-  background-color: #28a745;
 }
 
 img {
